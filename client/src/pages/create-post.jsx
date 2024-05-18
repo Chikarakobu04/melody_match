@@ -92,7 +92,7 @@ const CreatePost = () => {
 
 
         <div class= "flex items-center justify-center">
-        <button onClick={postSound} class='flex items-center justify-center text-center w-7/12 p-5 my-10 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full'>Upload</button>
+        <button onClick={postSound} class='flex items-center justify-center text-center w-7/12 p-5 my-10 bg-orange hover:bg-red-200 text-black font-bold py-2 px-4 rounded-full'>Upload</button>
         </div>
       </div>
       
