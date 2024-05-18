@@ -6,6 +6,7 @@ import Head from 'next/head'
 
 
 
+
 const CreatePost = () => {
   const router = useRouter();
     
